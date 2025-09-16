@@ -1,5 +1,5 @@
 import PostAuthor from './PostAuthor'
-// import TimeAgo from "./TimeAgo.jsx";
+import TimeAgo from "./TimeAgo.jsx";
 import ReactionButtons from './ReactionButtons';
 import { useSelector } from 'react-redux';
 import { selectPostById } from './postSlice';
